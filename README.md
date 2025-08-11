@@ -3,6 +3,8 @@
 ## Overview
 A professional carrier board designed for Atlas Scientific EZO circuit boards, featuring full electrical isolation and integrated SMA connectors for reliable sensor connectivity.
 
+Based on the [Atlas Scientific Electrically Isolated EZO Carrier Board Gen 2](https://atlas-scientific.com/carrier-boards/electrically-isolated-ezo-carrier-board-gen-2/), this design provides enhanced isolation and connectivity features for demanding applications.
+
 ## Features
 - **4 EZO Circuit Slots**: Supports up to 4 Atlas Scientific EZO circuit boards simultaneously
 - **Full Electrical Isolation**: Complete galvanic isolation between each EZO circuit to prevent ground loops and interference
@@ -52,6 +54,11 @@ This repository contains:
 
 ## License
 [License information to be added]
+
+## References & Documentation
+- [Atlas Scientific Electrically Isolated EZO Carrier Board Gen 2](https://atlas-scientific.com/carrier-boards/electrically-isolated-ezo-carrier-board-gen-2/) - Original carrier board reference
+- [Atlas Scientific EZO Circuit Documentation](https://atlas-scientific.com/circuits/) - Complete EZO circuit specifications
+- [Atlas Scientific Support](https://atlas-scientific.com/support/) - Technical support and resources
 
 ## Contact
 For questions, support, or custom modifications, please open an issue in this repository.
