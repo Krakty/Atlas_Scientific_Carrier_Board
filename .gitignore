@@ -1,0 +1,76 @@
+# KiCad temporary files
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-backups/
+*.net
+*.dsn
+*.ses
+~*
+*~
+_autosave-*
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-lib-table
+*.lck
+
+# KiCad autosave files
+#auto_saved_files#
+
+# Netlist files (exported from Eeschema)
+*.net
+
+# Autorouter files (exported from Pcbnew)
+*.dsn
+*.ses
+
+# Exported BOM files
+*.csv
+*.tsv
+*.txt
+
+# Exported CPL files
+*.pos
+
+# Exported Gerber files
+*.gbr
+*.gbrjob
+*.gbl
+*.gbo
+*.gbp
+*.gbs
+*.gm1
+*.gm2
+*.gm3
+*.gm4
+*.gm5
+*.gm6
+*.gm7
+*.gm8
+*.gm9
+*.gko
+*.gtl
+*.gto
+*.gtp
+*.gts
+*.drl
+*.xln
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor directories and files
+.idea
+.vscode
+*.swp
+*.swo
+*~
