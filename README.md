@@ -5,6 +5,12 @@ A professional carrier board designed for Atlas Scientific EZO circuit boards, f
 
 Based on the [Atlas Scientific Electrically Isolated EZO Carrier Board Gen 2](https://atlas-scientific.com/carrier-boards/electrically-isolated-ezo-carrier-board-gen-2/), this design provides enhanced isolation and connectivity features for demanding applications.
 
+### Design Improvements
+This prototype incorporates several component upgrades from the reference design:
+- **SI8600AC-B-ISR digital isolators** for improved signal integrity and isolation performance
+- **RFM-0505S power modules** for reliable isolated power delivery
+- **1206 package components** for easier hand assembly and prototype testing
+
 ## Features
 - **4 EZO Circuit Slots**: Supports up to 4 Atlas Scientific EZO circuit boards simultaneously
 - **Full Electrical Isolation**: Complete galvanic isolation between each EZO circuit to prevent ground loops and interference
@@ -26,9 +32,12 @@ This carrier board is compatible with the full range of Atlas Scientific EZO cir
 
 ## Technical Specifications
 - **Isolation**: Full galvanic isolation between channels
+  - **Digital Isolator**: SI8600AC-B-ISR (Silicon Labs) - High-speed digital isolator for I2C/UART signals
+  - **Power Isolation**: RFM-0505S - Isolated DC/DC converter module (5V to 5V)
 - **Connectors**: SMA female connectors for probe connections
 - **Communication**: I2C/UART pass-through for each isolated channel
 - **Power**: Isolated power supply for each EZO circuit
+- **Component Package**: 1206 series resistors and capacitors for easier prototype assembly and testing
 
 ## Applications
 - Water quality monitoring systems
