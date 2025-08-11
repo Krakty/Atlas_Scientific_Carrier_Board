@@ -57,6 +57,7 @@ This repository contains:
 
 ## References & Documentation
 - [Atlas Scientific Electrically Isolated EZO Carrier Board Gen 2](https://atlas-scientific.com/carrier-boards/electrically-isolated-ezo-carrier-board-gen-2/) - Original carrier board reference
+- [Carrier Board Technical Datasheet (PDF)](https://files.atlas-scientific.com/electrically-isolated-ezo-carrier-board.pdf) - Detailed specifications and wiring diagrams
 - [Atlas Scientific EZO Circuit Documentation](https://atlas-scientific.com/circuits/) - Complete EZO circuit specifications
 - [Atlas Scientific Support](https://atlas-scientific.com/support/) - Technical support and resources
 
