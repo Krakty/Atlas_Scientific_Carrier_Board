@@ -27,8 +27,8 @@ fp-lib-table
 *.dsn
 *.ses
 
-# Exported BOM files
-*.csv
+# Exported BOM files (keeping project BOM)
+# *.csv  # Project BOM is tracked
 *.tsv
 *.txt
 
